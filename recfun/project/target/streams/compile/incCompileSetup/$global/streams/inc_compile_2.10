@@ -1,0 +1,1256 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+87 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Assignment.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\CourseraId$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\CourseraId.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Courses$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Courses.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleCheck$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleCheck.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$10.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$11.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$12.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$13.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$14.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$5.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$6.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$7.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$8.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$9.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Settings$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Settings.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$10.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$9.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class
+binary dependencies:
+42 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> C:\Users\Dominik Peter\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> C:\Users\Dominik Peter\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala
+inheritance external dependencies:
+0 items
+class names:
+87 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> CommonBuild
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> CommonBuild$class
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Assignment
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Assignment$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> CourseraId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> CourseraId$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Courses
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Courses$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> StyleCheck
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> StyleCheck$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> GradingFeedback
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> RecordingLogger
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> RecordingLogger$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> GradingSummary
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> GradingSummary$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anon$2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$10
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$11
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$12
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$13
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$14
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$4
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$5
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$6
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$7
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$8
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$9
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner$LimitedStringBuffer
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> Settings
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> Settings$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> StudentBuild
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> StudentBuild$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> AssignmentInfo
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> AssignmentInfo$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> MapMapString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> MapMapString$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$12
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$12$$anonfun$apply$10
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$12$$anonfun$apply$9
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$5
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$prepareJar$4
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$4
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$5
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$root$6
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> StyleChecker
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> StyleChecker$
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> StyleChecker$CustomTextOutput
+used names:
+804 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> %
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> %%
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> Build
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> CommonBuild
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> ManifestFactory
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> Predef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> Seq
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> SettingKey
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> String
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> apply
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> assignment
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> classType
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> commonSourcePackages
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> course
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> courseId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> package
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> reflect
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> sbt
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> toGroupID
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> &&
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> ->
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> ::
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> <init>
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> ==
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> AbstractFunction2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> AbstractFunction4
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> AbstractFunction5
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> AnyRef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Assignment
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Assignments
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> CourseraId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Courses
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Double
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> List
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Map
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Nil
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> None
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Option
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Predef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Product
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> ScalaRunTime
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Serializable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> Statics
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> String
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> StyleCheck
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> _hashCode
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> _toString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> all
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> any2ArrowAssoc
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> anyHash
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> apply
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> asInstanceOf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> courseraId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> doubleHash
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> empty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> eq
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> finalizeHash
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> immutable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> isInstanceOf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> itemId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> key
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> maxScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> mix
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> options
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> package
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> packageName
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> partId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> premiumItemId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> runtime
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> sbt
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> scoreRatio
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> styleCheck
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> styleSheet
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> styleSheetPath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> toString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> typedProductIterator
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$10
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$11
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$12
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$13
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$14
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$15
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$16
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$17
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$18
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$19
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$20
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$21
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$22
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$23
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$24
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$25
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$26
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$27
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$28
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> x$9
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> ||
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> *
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> +
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> +=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> -
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> <byname>
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> <init>
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> ==
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> AnyRef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> Double
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> Error
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> GradingFeedback
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> Level
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> ListBuffer
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> Logger
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> Predef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> RecordingLogger
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> String
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> StringContext
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> Throwable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> Unit
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> Value
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> _root_
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> addDetails
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> addSummary
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> allTestsPassedMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> apply
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> augmentString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> buffer
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> clear
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> collection
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> compileFailedMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> failed
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> failed_=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> feedbackDetails
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> feedbackSummary
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> format
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> level
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> log
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> maxScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> maxScore_=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> maxStyleScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> maxTestScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> message
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> mkString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> msg
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> mutable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> newMaxScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> newStyleScoreRatio
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> nonEmpty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> package
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> perfectStyleMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> res
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> s
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> sbt
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> score
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> stripMargin
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> styleProblemsMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> styleScoreRatio
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> styleScoreRatio_=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> testCompileFailedMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> testExecutionFailedMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> testsFailedMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> totalGradeMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> totalScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> unpackFailedMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> vStyleScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> vStyleScore_=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> vTestScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> vTestScore_=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> !=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> $anon
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> $m
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> $m$untyped
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> $typecreator1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> $u
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> &&
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> *
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> +
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> /
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ::
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> <
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> <init>
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ==
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> >
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> AbstractFunction3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Any
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> AnyRef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Callable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Classpath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Codec
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Defaults
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Executors
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> FastTypeTag
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> File
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Function1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Future
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> GRL
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Generated
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> GradingFeedback
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> GradingSummary
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> GradingSummaryUnpickler1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> IO
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Int
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Keys
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> LimitedStringBuffer
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> List
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ListBuffer
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Map
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Mirror
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Nil
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> None
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Nothing
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Null
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> PReader
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> PickleOps
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Predef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Process
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ProcessLogger
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Product
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Ref
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaRunTime
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ScalaTestRunner
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Seq
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Serializable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Settings
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Singleton
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Source
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Statics
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> String
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> StringContext
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> SysProc
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Throwable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> TimeoutException
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Type
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> TypeCreator
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> TypeTag
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> U
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Unit
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Universe
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> Unpickler
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> _1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> _2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> _3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> _4
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> _root_
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> _toString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> allTestsPassed
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> anyHash
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> append
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> apply
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> asInstanceOf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> asType
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> augmentString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> beginEntry
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> buf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> cachedMirror
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> cachedMirror_=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> canBuildFrom
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> cancel
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> classpath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> classpathString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> cmd
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> collection
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> computeSummary
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> concurrent
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> currentMirror
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> data
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> delete
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> destroy
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> e
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> endEntry
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> eq
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> executor
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> existentials
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> exitValue
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> fallbackSystemCodec
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> feedback
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> file
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> finalizeHash
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> forkProcess
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> fromFile
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> future
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> genUnpickler
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> get
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> getAbsolutePath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> getClassLoader
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> getLines
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> getOrElse
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> gradeOptions
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> gradingReporter
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> hintStaticallyElidedType
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> hintTag
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> immutable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> implicitly
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> individualTestTimeout
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> instragentPath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> intPickler
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> internal
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> invokeScalaTestInSeparateProcess
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> io
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ir
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> isEmpty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> isInstanceOf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> java
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> json
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> jsonPickleToUnpickleOps
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> key
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> language
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> length
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> lengthCropped
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> lengthCropped_=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> lines
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> lines_=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> lock
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> logError
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> map
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> materializeWeakTypeTag
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> maxOutputLineLength
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> maxOutputLines
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> maxScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> maxTestScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> memory
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> mix
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> mkString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> msg
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> mutable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> name
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ne
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> newSingleThreadExecutor
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> options
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> out
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> outFilePath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> outfile
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> package
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> pickleFormat
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> pickling
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> prepend
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> println
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> proc
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> process
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> prop
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> readField
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> reader
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> reader1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> reader2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> reader3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> refUnpickler
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> reflect
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> refs
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> replace
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> resourceFiles
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> resourceFilesString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> result
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> run
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> runLog
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> runPathString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> runScalaTest
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> runtime
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> runtimeMirror
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> s
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> sbt
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scalaTestCommand
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scalaTestDefaultWeight
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scalaTestDefaultWeightProperty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scalaTestIndividualTestTimeoutProperty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scalaTestReadableFilesProperty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scalaTestReportFileProperty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scalaTestReporter
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scalaTestTimeout
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> scaledScore
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> score
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> shortS
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> shutdown
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> staticClass
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> stringPickler
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> stripMargin
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> submit
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> substring
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> summary
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> summaryCmd
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> summaryFilePath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> summaryFileStr
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> summaryProc
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> sys
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> tag
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> tagKey
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> testClasses
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> testEnv
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> testExecutionDebugLog
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> testExecutionFailed
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> testRunPath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> testsFailed
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> timeout
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> timeoutPerTest
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> to
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> toInt
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> toLong
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> toString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> toTypeConstructor
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> tpe
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> trim
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> typeString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> typedProductIterator
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> unary_!
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> unchecked
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> universe
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> unlock
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> unpickle
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> unpickleSummary
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> unpickler$unpickle$1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> unpickler$unpickle$2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> unpickler$unpickle$3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> util
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> value
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> weakTypeOf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> xms
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> xmx
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> ||
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> *
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> <init>
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> AnyRef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> Settings
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> individualTestTimeout
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> maxOutputLineLength
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> maxOutputLines
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> maxSubmitFileSize
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> mb
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> scalaTestDefaultWeight
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> scalaTestDefaultWeightProperty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> scalaTestIndividualTestTimeoutProperty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> scalaTestReadableFilesProperty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> scalaTestReportFileProperty
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> scalaTestReporter
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> scalaTestTimeout
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> testResultsFileName
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> <init>
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> StudentBuild
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> StudentBuildLike
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> !=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> $p1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> $p2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> $p3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> $p4
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> $p5
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> &&
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> +
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> +=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ---
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> /
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ::
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> :=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> <
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> <init>
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ==
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> >
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> >=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> AList
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> AbstractFunction1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> AbstractFunction5
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Any
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Append
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Array
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> AssignmentInfo
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Base64
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Byte
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Codec
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> CommonBuild
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Compile
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ConfigKey
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Def
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Defaults
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Failure
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> File
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> FileInputStream
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> FullInstance
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Function1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Http
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> HttpOptions
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> HttpResponse
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> IOException
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> InitializeInstance
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> InputKey
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> InputTask
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> InputWrapper
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> JSON
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Keys
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> List
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ManifestFactory
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Map
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> MapMapString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Nil
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> None
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Nothing
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Option
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ParserInput
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ParserInstance
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Path
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Predef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Product
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Project
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ScalaRunTime
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Scoped
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Seq
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Serializable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> SettingKey
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Settings
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> String
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StringContext
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StudentBuildLike
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> StyleChecker
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Success
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> TaskInstance
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> TaskKey
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> TaskStreams
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Test
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Try
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> Unit
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> _1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> _2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> _3
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> _4
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> _5
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> _6
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> _hashCode
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> _root_
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> _toString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> allFiles
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> alternative
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> apache
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> app
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> append1
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> appendSeq
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> apply
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> args
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> asInstanceOf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> asString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> assess
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> assignment
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> assignmentDetails
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> assignmentInfo
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> assignmentKey
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> assignmentName
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> augmentString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> base
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> base64Jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> baseDirectory
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> binary
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> body
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> bytes
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> canBuildFrom
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> cde
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> classType
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> close
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> code
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> codec
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> collection
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> commonSourcePackages
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> commonSourcePaths
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> commons
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> compile
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> configurationToKey
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> connTimeout
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> connectMsg
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> course
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> courseName
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> data
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> e
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> email
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> encodeBase64
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> eq
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> errPrefix
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> error
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ex
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> exception
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> exists
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> f
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> failSubmit
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> failedConnectMsg
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> failedSubmitMsg
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> fallbackSystemCodec
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> feedback
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> file
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> fileLength
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> filesToFinder
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> filter
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> flat
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> fold
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> getAbsolutePath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> getPath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> headers
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> hs
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> http
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> id
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> immutable
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> in
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> inConfig
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> info
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> inputErr
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> inputKey
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> io
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> is
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> isInstanceOf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> itemId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> jar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> java
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> json
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> key
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> learnerMsg
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> length
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> libraryDependencies
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> log
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> logger
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> macroValueI
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> macroValueIT
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> make
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> map
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> maxResult
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> maxSubmitFileSize
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ne
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> nsc
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> option
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> org
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> other
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> package
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> packageSubmission
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> packageSubmissionFiles
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> packageTaskSettings
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> pair
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> parseFull
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> parsed
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> parserToInput
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> parser_☃☃
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> parsing
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> partId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> path
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> postData
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> postSubmission
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> premiumItemId
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> prepareJar
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> project
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> pure
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> read
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> reflect
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> relativeTo
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> reportCourseraResponse
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> resp
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> respBody
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> response
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> result
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> richFile
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> root
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> runtime
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> s
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> sbt
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> scalaSource
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> scalaTestDependency
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> scalaj
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> score
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> sdirs
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> secret
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> set
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> settings
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> singleFileFinder
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> sizeRead
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> sourceFiles
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> sourceMappingsWithoutPackages
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> sources
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> spaceDelimited
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> srcs
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ss
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> startsWith
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> streams
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> string2path
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> stripMargin
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> styleCheck
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> styleCheckSetting
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> styleSheet
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> submit
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> submitLocal
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> submitLocalSetting
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> submitSetting
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> successfulSubmitMsg
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> sys
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> t6ToTable6
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> toITask
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> toInt
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> toSParser
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> toString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> tools
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> tuple2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> tuple5
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> tuple6
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> typedProductIterator
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> unary_!
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> unchecked
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> unmanagedSourceDirectories
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> unmanagedSources
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> util
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> value
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> warn
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> withoutCommonSources
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> wrapInitTask_☃☃
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> wrapInit_☃☃
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> writeAll
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> x
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> |
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> ||
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> +
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> -
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> <init>
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> ==
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> AnyRef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> ByteArrayOutputStream
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> ConfigFactory
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> CustomTextOutput
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Directory
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> File
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> FileSpec
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Int
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Message
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> MessageHelper
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> None
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Nothing
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Option
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Output
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> OutputResult
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Predef
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> PrintStream
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> ScalastyleChecker
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> ScalastyleConfiguration
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Seq
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> String
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> StringContext
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> StyleChecker
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> T
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Tuple2
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> Unit
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> _root_
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> args
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> asInstanceOf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> augmentString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> checkFiles
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> column
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> columnNumber
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> com
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> config
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> configFile
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> customMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> errors
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> file
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> fileCount
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> fileCount_=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> fileSpec
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> files
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> findMessage
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> getAbsolutePath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> getClass
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> getClassLoader
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> getFiles
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> getParent
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> io
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> isInstanceOf
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> java
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> key
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> level
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> line
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> lineNumber
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> load
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> m
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> math
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> max
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> maxResult
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> message
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> messageHelper
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> messages
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> msg
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> name
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> org
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> output
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> outputResult
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> package
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> penalties
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> pos
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> print
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> println
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> readFromXml
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> report
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> s
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> sbt
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> scala
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> scalastyle
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> score
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> sources
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> stream
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> stripMargin
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> styleSheetPath
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> text
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> toString
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> typesafe
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> warnings
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> x
+product stamps:
+87 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Assignment$.class -> lastModified(1517849061549)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Assignment.class -> lastModified(1517849061584)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo$.class -> lastModified(1517849061597)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\AssignmentInfo.class -> lastModified(1517849061618)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\CommonBuild$class.class -> lastModified(1517849061632)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\CommonBuild.class -> lastModified(1517849061625)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\CourseraId$.class -> lastModified(1517849061640)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\CourseraId.class -> lastModified(1517849061660)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Courses$.class -> lastModified(1517849061694)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Courses.class -> lastModified(1517849061667)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\GradingFeedback.class -> lastModified(1517849061728)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\GradingSummary$.class -> lastModified(1517849061740)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\GradingSummary.class -> lastModified(1517849061758)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\MapMapString$.class -> lastModified(1517849061769)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\MapMapString.class -> lastModified(1517849061792)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger$.class -> lastModified(1517849061823)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\RecordingLogger.class -> lastModified(1517849061806)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anon$2.class -> lastModified(1517849061878)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$1.class -> lastModified(1517849061892)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$10.class -> lastModified(1517849061901)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$11.class -> lastModified(1517849061906)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$12.class -> lastModified(1517849061915)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$13.class -> lastModified(1517849061925)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$14.class -> lastModified(1517849061931)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$2.class -> lastModified(1517849061937)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$3.class -> lastModified(1517849061948)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$4.class -> lastModified(1517849061957)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$5.class -> lastModified(1517849061970)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$6.class -> lastModified(1517849061975)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$7.class -> lastModified(1517849061980)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$8.class -> lastModified(1517849061988)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$9.class -> lastModified(1517849061996)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class -> lastModified(1517849062020)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class -> lastModified(1517849062026)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$.class -> lastModified(1517849061866)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class -> lastModified(1517849062064)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class -> lastModified(1517849062058)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$GradingSummaryUnpickler1$2$.class -> lastModified(1517849062037)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner$LimitedStringBuffer.class -> lastModified(1517849062072)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\ScalaTestRunner.class -> lastModified(1517849061834)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Settings$.class -> lastModified(1517849062085)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\Settings.class -> lastModified(1517849062078)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuild$.class -> lastModified(1517849062099)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuild.class -> lastModified(1517849062095)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$2.class -> lastModified(1517849062149)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$3.class -> lastModified(1517849062155)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class -> lastModified(1517849062170)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1$$anonfun$4.class -> lastModified(1517849062163)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$1.class -> lastModified(1517849062142)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$10.class -> lastModified(1517849062191)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12$$anonfun$apply$9.class -> lastModified(1517849062198)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$12.class -> lastModified(1517849062183)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$5.class -> lastModified(1517849062205)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$1.class -> lastModified(1517849062213)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$2.class -> lastModified(1517849062219)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$3.class -> lastModified(1517849062226)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$prepareJar$4.class -> lastModified(1517849062233)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$1.class -> lastModified(1517849062240)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$2.class -> lastModified(1517849062247)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$3.class -> lastModified(1517849062255)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$4.class -> lastModified(1517849062261)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$5.class -> lastModified(1517849062270)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$root$6.class -> lastModified(1517849062281)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1517849062317)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1517849062308)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class -> lastModified(1517849062299)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitLocalSetting$1.class -> lastModified(1517849062290)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$10.class -> lastModified(1517849062412)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class -> lastModified(1517849062433)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class -> lastModified(1517849062449)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class -> lastModified(1517849062459)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$8.class -> lastModified(1517849062475)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$9.class -> lastModified(1517849062484)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1517849062494)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class -> lastModified(1517849062505)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class -> lastModified(1517849062512)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class -> lastModified(1517849062525)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class -> lastModified(1517849062535)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1517849062396)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class -> lastModified(1517849062339)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike$$anonfun$submitSetting$1.class -> lastModified(1517849062325)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StudentBuildLike.class -> lastModified(1517849062135)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleCheck$.class -> lastModified(1517849062555)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleCheck.class -> lastModified(1517849062580)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$.class -> lastModified(1517849062603)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleChecker$CustomTextOutput.class -> lastModified(1517849062617)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\target\scala-2.10\sbt-0.13\classes\StyleChecker.class -> lastModified(1517849062596)
+source stamps:
+8 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> hash(09460300fc1be147a8f00fb80fe010ef59fa01f2)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> hash(8827495110e9b7bebed230fa37531dfed4ee2773)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> hash(465ad938dd5b956be8d9c8c4e0e5ff0ccd34b760)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> hash(744950c1944944d2fb9f46f2d57c3873280f2a78)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> hash(d7e0072c3c0c16a01ad0dc727c97ecccf8f7791a)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> hash(ec89d09f3293126eee5f4127779e8bf052674095)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> hash(eb9c26715c2c6d77c49ddd7123bd57ccefec233c)
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> hash(71fa97d829a902e35bad1e762522c42cbbb5c837)
+binary stamps:
+19 items
+C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar -> lastModified(1517762460018)
+C:\Users\Dominik Peter\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> lastModified(1389798583000)
+C:\Users\Dominik Peter\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> lastModified(1415283333000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar -> lastModified(1423252686000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> lastModified(1439253124000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> lastModified(1439253119000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar -> lastModified(1439253231000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar -> lastModified(1439253134000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar -> lastModified(1439253183000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar -> lastModified(1439253150000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> lastModified(1439253272000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> lastModified(1439253285000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> lastModified(1439253291000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar -> lastModified(1439253204000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> lastModified(1452005615000)
+C:\Users\Dominik Peter\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> lastModified(1449002502000)
+C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar -> lastModified(1425002097000)
+C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> lastModified(1425002069000)
+C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar -> lastModified(1425002084000)
+class names:
+19 items
+C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Dominik Peter\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar -> com.typesafe.config.ConfigFactory
+C:\Users\Dominik Peter\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar -> org.apache.commons.codec.binary.Base64
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-lang.modules\scala-pickling_2.10\jars\scala-pickling_2.10-0.10.0.jar -> scala.pickling.Generated
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> sbt.appmacro.Instance$
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> sbt.Init
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.9.jar -> sbt.inc.Analysis
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.9.jar -> sbt.PathExtra
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.9.jar -> sbt.ModuleID
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.9.jar -> sbt.Logger
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> sbt.TaskMacroExtra
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> sbt.ProjectExtra
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> sbt.package$
+C:\Users\Dominik Peter\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.9.jar -> sbt.Task
+C:\Users\Dominik Peter\.ivy2\cache\org.scalaj\scalaj-http_2.10\jars\scalaj-http_2.10-2.2.1.jar -> scalaj.http.BaseHttp
+C:\Users\Dominik Peter\.ivy2\cache\org.scalastyle\scalastyle_2.10\jars\scalastyle_2.10-0.8.0.jar -> org.scalastyle.Output
+C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-compiler.jar -> scala.tools.nsc.io.package$
+C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> scala.package$
+C:\Users\Dominik Peter\.sbt\boot\scala-2.10.5\lib\scala-reflect.jar -> scala.reflect.io.Path$
+internal apis:
+8 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCYBUs/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cM6/5yN0AAZub3RpZnlzcQB+AAzho1SddAAEd2FpdHNxAH4ADJnmT4l0AAZjb3Vyc2VzcQB+AAwjqmifdAANJGFzSW5zdGFuY2VPZnNxAH4ADGNroG10AAxidWlsZExvYWRlcnNzcQB+AAwox+mMdAAIY291cnNlSWRzcQB+AAw9m15XdAAGZXF1YWxzc3EAfgAMRqbfFnQADGFzSW5zdGFuY2VPZnNxAH4ADAHJm8J0ABJwcm9qZWN0RGVmaW5pdGlvbnNzcQB+AAzdqgdMdAAMc3luY2hyb25pemVkc3EAfgAMLQq0e3QADSRpc0luc3RhbmNlT2ZzcQB+AAzj2GZTdAAJbm90aWZ5QWxsc3EAfgAM3xVofXQAC3Jvb3RQcm9qZWN0c3EAfgAMhAnFUXQADGlzSW5zdGFuY2VPZnNxAH4ADKeOrGZ0ABRjb21tb25Tb3VyY2VQYWNrYWdlc3NxAH4ADNcnUBt0AAI9PXNxAH4ADJW6J8l0AAtDb21tb25CdWlsZHNxAH4ADNuSQ1Z0AAVjbG9uZXNxAH4ADB/mK4x0AAYkaW5pdCRzcQB+AAyveo9jdAATc2NhbGFUZXN0RGVwZW5kZW5jeXNxAH4ADL/6pdF0AAh0b1N0cmluZ3NxAH4ADLGQwsV0AAIhPXNxAH4ADFdlioB0AAhwcm9qZWN0c3NxAH4ADH5Q7n10AAhnZXRDbGFzc3NxAH4ADK5HYKl0AAphc3NpZ25tZW50c3EAfgAMqvyR9XQAAm5lc3EAfgAMcLrUjXQAAmVxc3EAfgAMZ252nnQACHNldHRpbmdzc3EAfgAM1at3/3QAAiMjc3EAfgAMKK+cA3QACGZpbmFsaXplc3EAfgAMi56UuHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXEAfgAvdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4Ac3NxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHJ0AAVCdWlsZHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADc2J0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIxzcQB+AH90AAZPYmplY3RzcQB+AINzcQB+AIZ1cQB+AIkAAAADc3EAfgCLdAAEamF2YXNxAH4Ai3QABGxhbmdxAH4AkHNxAH4Af3QAA0FueXNxAH4Ag3NxAH4AhnVxAH4AiQAAAAJzcQB+AIt0AAVzY2FsYXEAfgCQcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYWbaUMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABfRzpcTU9PQ1xDb3Vyc2VyYVxTY2FsYVxGdW5jdGlvbmFsIFByb2dyYW1taW5nXHJlY2Z1blxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQJRgMA/BvhR6jwD7gP4BDvWfoB8g==
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBsO4/gAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJA+gDt0AAZub3RpZnlzcQB+AAzbzU8tdAAEd2FpdHNxAH4ADMXNV4t0AAhtYXhTY29yZXNxAH4ADC0Owg90AA5jb3B5JGRlZmF1bHQkMnNxAH4ADOH7Qs10AA0kYXNJbnN0YW5jZU9mc3EAfgAMrdgb7HQADmNvcHkkZGVmYXVsdCQ1c3EAfgAM7b5nxXQACkNvdXJzZXJhSWRzcQB+AAyZKtJ1dAAMcHJvZHVjdEFyaXR5c3EAfgAMPGnEtXQABmVxdWFsc3NxAH4ADGM3bT10AApjb3Vyc2VyYUlkc3EAfgAMhSPPQ3QAA2FsbHNxAH4ADBl7Gb90AAxhc0luc3RhbmNlT2ZzcQB+AAwiXq7ddAAMc3luY2hyb25pemVkc3EAfgAMR6l6gHQADSRpc0luc3RhbmNlT2ZzcQB+AAw+pfNndAALcGFja2FnZU5hbWVzcQB+AAzZ8UlSdAAKc2NvcmVSYXRpb3NxAH4ADMnE9/10AAhjYW5FcXVhbHNxAH4ADC/btUZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADI0Q5Mh0AA1wcm9kdWN0UHJlZml4c3EAfgAMmeu9Y3QACW5vdGlmeUFsbHNxAH4ADA6r7bx0AANrZXlzcQB+AAwwDNzcdAAMaXNJbnN0YW5jZU9mc3EAfgAMveBWCnQAB29wdGlvbnNzcQB+AAwYlh1udAAGPGluaXQ+c3EAfgAMDbbTLnQACnN0eWxlQ2hlY2tzcQB+AAyyzfjzdAAHQ291cnNlc3NxAH4ADEINjGB0AAI9PXNxAH4ADNli4vN0AAVjbG9uZXNxAH4ADLfM1ot0AApzdHlsZVNoZWV0c3EAfgAM54zSKHQABml0ZW1JZHNxAH4ADKOo13l0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADM6wL/l0AARjb3B5c3EAfgAM74jAbnQACHRvU3RyaW5nc3EAfgAMLhDAR3QACkFzc2lnbm1lbnRzcQB+AAw+PWC8dAACIT1zcQB+AAwXiwradAAIZ2V0Q2xhc3NzcQB+AAzLNYdxdAALQXNzaWdubWVudHNzcQB+AAza82P7dAANcHJlbWl1bUl0ZW1JZHNxAH4ADF8xPjR0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMpRvfV0AAJuZXNxAH4ADB5bnAB0AAZwYXJ0SWRzcQB+AAxqN4xbdAACZXFzcQB+AAxJsTxVdAAKU3R5bGVDaGVja3NxAH4ADNS6L1Z0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAy9t5P5dAACIyNzcQB+AAwOdVnZdAAIZmluYWxpemVzcQB+AAzhatJXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAy77fsEdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AEF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AI4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHdMAAlpbmhlcml0ZWRxAH4Ad0wAB3BhcmVudHNxAH4Ad3hxAH4AlXNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AK10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AK5zcQB+AKF0AANBbnlzcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtdAAFc2NhbGFxAH4AtHBwc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgBRdXEAfgCGAAAAAH5xAH4AiHQACENsYXNzRGVmdXEAfgCMAAAAAHNxAH4AjgFxAH4AlnBzcQB+AI4Bc3EAfgCYc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AnwAAAAZzcQB+AKF0AAxTZXJpYWxpemFibGVzcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtcQB+ALtxAH4AtHNxAH4AoXEAfgDNc3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXEAfgCwc3EAfgCtdAACaW9xAH4AtHNxAH4AoXQAB1Byb2R1Y3RxAH4AznNxAH4AoXQABkVxdWFsc3EAfgDOc3EAfgChcQB+AKRzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK1xAH4AsnEAfgC0c3EAfgChcQB+ALZxAH4AznBwc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgBjdXEAfgCGAAAAAHEAfgDAdXEAfgCMAAAAAHNxAH4AjgFxAH4AlnBzcQB+AI4Bc3EAfgCYc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AnwAAAAZzcQB+AKFxAH4AzXNxAH4ApXNxAH4AqHVxAH4AqwAAAAJzcQB+AK1xAH4Au3EAfgC0c3EAfgChcQB+AM1zcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK10AAJpb3EAfgC0c3EAfgChcQB+ANpxAH4A83NxAH4AoXQABkVxdWFsc3EAfgDzc3EAfgChcQB+AKRzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK1xAH4AsnEAfgC0c3EAfgChcQB+ALZxAH4A83Bwc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgAbdXEAfgCGAAAAAHEAfgDAdXEAfgCMAAAAAHNxAH4AjgFxAH4AlnBzcQB+AI4Bc3EAfgCYc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AnwAAAAZzcQB+AKFxAH4AzXNxAH4ApXNxAH4AqHVxAH4AqwAAAAJzcQB+AK1xAH4Au3EAfgC0c3EAfgChcQB+AM1zcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK10AAJpb3EAfgC0c3EAfgChcQB+ANpxAH4BF3NxAH4AoXQABkVxdWFsc3EAfgEXc3EAfgChcQB+AKRzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALBzcQB+AK1xAH4AsnEAfgC0c3EAfgChcQB+ALZxAH4BF3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFm2lDMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAX0c6XE1PT0NcQ291cnNlcmFcU2NhbGFcRnVuY3Rpb25hbCBQcm9ncmFtbWluZ1xyZWNmdW5ccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiCdJURDpt76+0jD6N1Md/tTuJ3M=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAlGPXfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBC7zYp0AAZub3RpZnlzcQB+AAyCztWtdAANbWF4VG90YWxTY29yZXNxAH4ADMYUUq50AAdzdWNjZXNzc3EAfgAMphAPoHQABHdhaXRzcQB+AAxQNcW9dAAIbWF4U2NvcmVzcQB+AAykXYZJdAARdGVzdENvbXBpbGVGYWlsZWRzcQB+AAxNwOCOdAANJGFzSW5zdGFuY2VPZnNxAH4ADLHH21t0AAV0cmFjZXNxAH4ADISTlhp0ABJhbnNpQ29kZXNTdXBwb3J0ZWRzcQB+AAzVbJ8odAATdW5wYWNrRmFpbGVkTWVzc2FnZXNxAH4ADDC2mB10AAR3YXJuc3EAfgAMXX+ws3QACWhhc0Vycm9yc3NxAH4ADJEJDiR0AAx1bnBhY2tGYWlsZWRzcQB+AAyokdaRdAAHdmVyYm9zZXNxAH4ADGpOrIt0AAZlcXVhbHNzcQB+AAxEC/irdAAPc3R5bGVTY29yZVJhdGlvc3EAfgAMiXnPNHQADHBlcmZlY3RTdHlsZXNxAH4ADEsf4Bl0ABN0ZXN0RXhlY3V0aW9uRmFpbGVkc3EAfgAMkTen9XQABWNsZWFyc3EAfgAM2xKuB3QACmFkZERldGFpbHNzcQB+AAyh1XqndAAMYXNJbnN0YW5jZU9mc3EAfgAMwc/CsnQAD2ZlZWRiYWNrU3VtbWFyeXNxAH4ADFfWj9Z0ABF0b3RhbEdyYWRlTWVzc2FnZXNxAH4ADAM88u50AAxtYXhUZXN0U2NvcmVzcQB+AAyUW+2ZdAAKYWRkU3VtbWFyeXNxAH4ADBi1Gbx0AAxzeW5jaHJvbml6ZWRzcQB+AAzJGhHrdAAUc3R5bGVQcm9ibGVtc01lc3NhZ2VzcQB+AAxrTMMQdAAGZmFpbGVkc3EAfgAM6SD83XQAE3BlcmZlY3RTdHlsZU1lc3NhZ2VzcQB+AAywnrPxdAANJGlzSW5zdGFuY2VPZnNxAH4ADNhlKS50AA1tYXhTdHlsZVNjb3Jlc3EAfgAMbY6J73QABmJ1ZmZlcnNxAH4ADIXFUCt0AA5mZWVkYmFja1N0cmluZ3NxAH4ADIbO+N10AARpbmZvc3EAfgAMLFjfS3QACW5vdGlmeUFsbHNxAH4ADA0yX1F0AA5hbGxUZXN0c1Bhc3NlZHNxAH4ADL8X5g90AAVkZWJ1Z3NxAH4ADKciWCd0AAxpc0luc3RhbmNlT2ZzcQB+AAxLs/5hdAAPUmVjb3JkaW5nTG9nZ2Vyc3EAfgAMJorGuHQABjxpbml0PnNxAH4ADHjqgxJ0AA1jb21waWxlRmFpbGVkc3EAfgAMGZWR+XQACnZUZXN0U2NvcmVzcQB+AAyT13ctdAAMcmVhZEFuZENsZWFyc3EAfgAMqnwdiXQABWVycm9yc3EAfgAMQS1B+nQAFXRlc3RFeGVjdXRpb25EZWJ1Z0xvZ3NxAH4ADEGhRJ10AA9HcmFkaW5nRmVlZGJhY2tzcQB+AAxH9HJMdAANc3R5bGVQcm9ibGVtc3NxAH4ADL+Eq0d0AAp0b3RhbFNjb3Jlc3EAfgAMzA8sqHQAAj09c3EAfgAMbCN9H3QAGnRlc3RFeGVjdXRpb25GYWlsZWRNZXNzYWdlc3EAfgAMfgdKbXQABWNsb25lc3EAfgAM8sq0+nQAC3NldE1heFNjb3Jlc3EAfgAM4fepfnQAD2ZlZWRiYWNrRGV0YWlsc3NxAH4ADBlRCG10ABVhbGxUZXN0c1Bhc3NlZE1lc3NhZ2VzcQB+AAyOBV4MdAAIdG9TdHJpbmdzcQB+AAx8u+u4dAACIT1zcQB+AAxKKjxjdAASdGVzdHNGYWlsZWRNZXNzYWdlc3EAfgAMWrNGunQACGdldENsYXNzc3EAfgAMmWCglHQAAm5lc3EAfgAM9rxYMHQAGHRlc3RDb21waWxlRmFpbGVkTWVzc2FnZXNxAH4ADDTU3rZ0AAhpc0ZhaWxlZHNxAH4ADM3fil90AAt2U3R5bGVTY29yZXNxAH4ADCGTlm10AAJlcXNxAH4ADEcxRwR0AANsb2dzcQB+AAwhfrPEdAACIyNzcQB+AAy6gSIvdAAIZmluYWxpemVzcQB+AAwvC+TKdAAIaGFzaENvZGVzcQB+AAzK5pHsdAALdGVzdHNGYWlsZWRzcQB+AAydTrptdAAUY29tcGlsZUZhaWxlZE1lc3NhZ2VzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AGl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AuAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AoUwACWluaGVyaXRlZHEAfgChTAAHcGFyZW50c3EAfgCheHEAfgC/c3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AvnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AvnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A13QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A2HNxAH4Ay3QAA0FueXNxAH4Az3NxAH4A0nVxAH4A1QAAAAJzcQB+ANd0AAVzY2FsYXEAfgDecHBzcQB+AJ5xAH4Aq3VxAH4ArAAAAABzcQB+AK4AcQB+AFt1cQB+ALAAAAAAfnEAfgCydAAGTW9kdWxldXEAfgC2AAAAAHNxAH4AuAFxAH4AwHBzcQB+ALgBc3EAfgDCc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AnAAAAABwc3EAfgC4AXVxAH4AyQAAAARzcQB+AMt0AAZMb2dnZXJzcQB+AM9zcQB+ANJ1cQB+ANUAAAACc3EAfgDXdAADc2J0cQB+AN5zcQB+AMt0AAZMb2dnZXJzcQB+AM9zcQB+ANJ1cQB+ANUAAAACc3EAfgDXdAAFeHNidGlxAH4A3nNxAH4Ay3EAfgDOc3EAfgDPc3EAfgDSdXEAfgDVAAAAA3NxAH4A13EAfgDac3EAfgDXcQB+ANxxAH4A3nNxAH4Ay3EAfgDgc3EAfgDPc3EAfgDSdXEAfgDVAAAAAnNxAH4A13EAfgDlcQB+AN5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFhZtpQzHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF9HOlxNT09DXENvdXJzZXJhXFNjYWxhXEZ1bmN0aW9uYWwgUHJvZ3JhbW1pbmdccmVjZnVuXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEZa2TjdW5Vr6NnIxODl/wzNNLdg
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDsb5EOAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBztt8F0AAZub3RpZnlzcQB+AAwOb52LdAANbGVuZ3RoQ3JvcHBlZHNxAH4ADGTryRN0AA5jb21wdXRlU3VtbWFyeXNxAH4ADF2hOc10AAR3YWl0c3EAfgAMxk52unQACG1heFNjb3Jlc3EAfgAMYZ9rYXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMoytZxnQADSRhc0luc3RhbmNlT2ZzcQB+AAwA4PQXdAATTGltaXRlZFN0cmluZ0J1ZmZlcnNxAH4ADFkQAjt0AAxwcm9kdWN0QXJpdHlzcQB+AAyMnn1rdAAGZXF1YWxzc3EAfgAM7el0u3QAB3Rlc3RFbnZzcQB+AAz5m5d5dAAQc2NhbGFUZXN0Q29tbWFuZHNxAH4ADESd4tZ0AAxhc0luc3RhbmNlT2ZzcQB+AAx5ejQBdAAMcnVuU2NhbGFUZXN0c3EAfgAMyoVVYHQADHN5bmNocm9uaXplZHNxAH4ADC/cM3Z0AAVzY29yZXNxAH4ADCfUp0t0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMzaZUHQAA2J1ZnNxAH4ADBrw10V0AAhjYW5FcXVhbHNxAH4ADCRfY1V0AA1wcm9kdWN0UHJlZml4c3EAfgAMLh9VjHQACW5vdGlmeUFsbHNxAH4ADA4s9IJ0AAxpc0luc3RhbmNlT2ZzcQB+AAwOxexpdAAOc2NhbGFUZXN0R3JhZGVzcQB+AAw/4Xm+dAAIZmVlZGJhY2tzcQB+AAwhEx6QdAAGPGluaXQ+c3EAfgAMtFTc13QAD1NjYWxhVGVzdFJ1bm5lcnNxAH4ADFU7iqN0AAI9PXNxAH4ADKPPpRt0AAVjbG9uZXNxAH4ADJKa+0p0ACBpbnZva2VTY2FsYVRlc3RJblNlcGFyYXRlUHJvY2Vzc3NxAH4ADGKazR10AA5jb3B5JGRlZmF1bHQkM3NxAH4ADN/+hK10AARjb3B5c3EAfgAMggmp3nQACHRvU3RyaW5nc3EAfgAM6jN11XQADkdyYWRpbmdTdW1tYXJ5c3EAfgAMZcBOBXQADXJ1blBhdGhTdHJpbmdzcQB+AAx7qfZydAACIT1zcQB+AAzJMYXndAAIZ2V0Q2xhc3NzcQB+AAwz9cbKdAAOY29weSRkZWZhdWx0JDFzcQB+AAxsHdCzdAAFbGluZXNzcQB+AAxkKeTTdAACbmVzcQB+AAwPasqtdAALZm9ya1Byb2Nlc3NzcQB+AAwl/qYidAACZXFzcQB+AAwMnkV+dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMTHXO3HQAAiMjc3EAfgAMlZSaMHQACGZpbmFsaXplc3EAfgAMY1OGNXQADnByb2R1Y3RFbGVtZW50c3EAfgAMUpKVpHQACGhhc2hDb2Rlc3EAfgAM3qxwAXQAD3VucGlja2xlU3VtbWFyeXNxAH4ADEcWQfl0AAZhcHBlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAEcQB+AE91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AjgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ad0wACWluaGVyaXRlZHEAfgB3TAAHcGFyZW50c3EAfgB3eHEAfgCVc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVxAH4AcgAAAABwc3EAfgCOAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AlHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AlHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ArnNxAH4AoXEAfgCkc3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXQABGphdmFzcQB+AK10AAJpb3EAfgCyc3EAfgChdAAHUHJvZHVjdHEAfgCnc3EAfgChdAAGRXF1YWxzcQB+AKdzcQB+AKF0AAZPYmplY3RzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALhzcQB+AK10AARsYW5ncQB+ALJzcQB+AKF0AANBbnlxAH4Ap3Bwc3EAfgB0cQB+AIF1cQB+AIIAAAAAc3EAfgCEAHEAfgBBdXEAfgCGAAAAAH5xAH4AiHQABk1vZHVsZXVxAH4AjAAAAABzcQB+AI4BcQB+AJZwc3EAfgCOAXNxAH4AmHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AJ8AAAACc3EAfgChcQB+AMBzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtcQB+ALhzcQB+AK1xAH4AxnEAfgCyc3EAfgChcQB+AMhzcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtcQB+ALBxAH4AsnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFm2lDMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAX0c6XE1PT0NcQ291cnNlcmFcU2NhbGFcRnVuY3Rpb25hbCBQcm9ncmFtbWluZ1xyZWNmdW5ccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdElQwZRJRNL7n0by1Xw4cygPKng=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBdsVePAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPd8JSx0AA5tYXhPdXRwdXRMaW5lc3NxAH4ADN3xDDp0AAZub3RpZnlzcQB+AAw2/uzkdAAIU2V0dGluZ3NzcQB+AAwEfLCJdAAEd2FpdHNxAH4ADI25n6p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMFEU/Y3QABmVxdWFsc3NxAH4ADHByRrp0ABtzY2FsYVRlc3RSZXBvcnRGaWxlUHJvcGVydHlzcQB+AAxdFnjHdAAMYXNJbnN0YW5jZU9mc3EAfgAMM5zYrXQADHN5bmNocm9uaXplZHNxAH4ADKOMsn90AA0kaXNJbnN0YW5jZU9mc3EAfgAMUTHkZ3QAE3Rlc3RSZXN1bHRzRmlsZU5hbWVzcQB+AAw5L4IPdAAec2NhbGFUZXN0RGVmYXVsdFdlaWdodFByb3BlcnR5c3EAfgAM96vKa3QACW5vdGlmeUFsbHNxAH4ADPPzVup0AB5zY2FsYVRlc3RSZWFkYWJsZUZpbGVzUHJvcGVydHlzcQB+AAzF6MOjdAARc2NhbGFUZXN0UmVwb3J0ZXJzcQB+AAwpuM4PdAAMaXNJbnN0YW5jZU9mc3EAfgAMXCSaXXQAJnNjYWxhVGVzdEluZGl2aWR1YWxUZXN0VGltZW91dFByb3BlcnR5c3EAfgAMbTiV0XQAFnNjYWxhVGVzdERlZmF1bHRXZWlnaHRzcQB+AAyf9aKtdAATbWF4T3V0cHV0TGluZUxlbmd0aHNxAH4ADANEpKB0AAI9PXNxAH4ADNPY6fB0AAVjbG9uZXNxAH4ADADFmSl0ABVpbmRpdmlkdWFsVGVzdFRpbWVvdXRzcQB+AAyHISJRdAARbWF4U3VibWl0RmlsZVNpemVzcQB+AAxd6ZG+dAAIdG9TdHJpbmdzcQB+AAwH+1wtdAACIT1zcQB+AAzvdUvJdAAIZ2V0Q2xhc3NzcQB+AAyrNAo6dAAQc2NhbGFUZXN0VGltZW91dHNxAH4ADN1xJyJ0AAJuZXNxAH4ADDkpUhF0AAJlcXNxAH4ADNl3oMF0AAIjI3NxAH4ADETFA2d0AAhmaW5hbGl6ZXNxAH4ADLXBz790AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AE3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB1c3EAfgBuAXVxAH4AUgAAAABwc3EAfgBuAXVxAH4AUgAAAABwc3EAfgBuAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AjXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AgXQAA0FueXNxAH4AhXNxAH4AiHVxAH4AiwAAAAJzcQB+AI10AAVzY2FsYXEAfgCUcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYWbaUMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABfRzpcTU9PQ1xDb3Vyc2VyYVxTY2FsYVxGdW5jdGlvbmFsIFByb2dyYW1taW5nXHJlY2Z1blxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTX4AcsPAwWoBrQ3HJ8l+zM+Pd5Gg==
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD0DCrQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNwbmbh0AAZub3RpZnlzcQB+AAwpnkOOdAAEd2FpdHNxAH4ADMhEX0l0AAZjb3Vyc2VzcQB+AAxKh8zAdAANJGFzSW5zdGFuY2VPZnNxAH4ADJ21jvJ0AAxidWlsZExvYWRlcnNzcQB+AAxhC4OUdAAIY291cnNlSWRzcQB+AAyDofcFdAAEcm9vdHNxAH4ADBoexuZ0AAZlcXVhbHNzcQB+AAwiogCvdAAOYXNzaWdubWVudEluZm9zcQB+AAwv3CK3dAAMYXNJbnN0YW5jZU9mc3EAfgAM6qMJq3QAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADKZQ/e50AAxzeW5jaHJvbml6ZWRzcQB+AAyrTQLbdAANJGlzSW5zdGFuY2VPZnNxAH4ADDA6UHJ0ABJzdWJtaXRMb2NhbFNldHRpbmdzcQB+AAy750zIdAAMZW5jb2RlQmFzZTY0c3EAfgAMyjpFfnQABnN1Ym1pdHNxAH4ADD8bnit0AAlub3RpZnlBbGxzcQB+AAyJdxdTdAANc3VibWl0U2V0dGluZ3NxAH4ADByXkiN0AAtyb290UHJvamVjdHNxAH4ADDpZ06V0AAxpc0luc3RhbmNlT2ZzcQB+AAyOq+HzdAAKcHJlcGFyZUphcnNxAH4ADKLsVSt0AApzdHlsZUNoZWNrc3EAfgAMQzLuF3QAFGNvbW1vblNvdXJjZVBhY2thZ2Vzc3EAfgAMVoN8GXQAAj09c3EAfgAMfUs303QAC3N1Ym1pdExvY2Fsc3EAfgAMOg+CC3QABWNsb25lc3EAfgAMA8dlTHQAE3NjYWxhVGVzdERlcGVuZGVuY3lzcQB+AAzqrhaKdAAdc291cmNlTWFwcGluZ3NXaXRob3V0UGFja2FnZXNzcQB+AAzqtXp7dAAWcGFja2FnZVN1Ym1pc3Npb25GaWxlc3NxAH4ADP6J6Bd0ABFwYWNrYWdlU3VibWlzc2lvbnNxAH4ADIZYxJ50AAh0b1N0cmluZ3NxAH4ADAojRQ10AAIhPXNxAH4ADLeFaiZ0AAhwcm9qZWN0c3NxAH4ADBFIMXN0AAxTdHVkZW50QnVpbGRzcQB+AAwhqIOHdAAIZ2V0Q2xhc3NzcQB+AAx/Sji5dAAKYXNzaWdubWVudHNxAH4ADCV0i3F0AAJuZXNxAH4ADK7Md5N0ABFzdHlsZUNoZWNrU2V0dGluZ3NxAH4ADGqbvnl0AAJlcXNxAH4ADBAYFzJ0AAhzZXR0aW5nc3NxAH4ADLirWHJ0AApmYWlsU3VibWl0c3EAfgAMSfrEUXQAAiMjc3EAfgAMfnznZXQACGZpbmFsaXplc3EAfgAMM1QzDXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ab3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBRdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCGAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBvTAAJaW5oZXJpdGVkcQB+AG9MAAdwYXJlbnRzcQB+AG94cQB+AI1zcQB+AIYBdXEAfgBqAAAAAHBzcQB+AIYBdXEAfgBqAAAAAHBzcQB+AIYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCMdAAQU3R1ZGVudEJ1aWxkTGlrZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHNxAH4AmXQAC0NvbW1vbkJ1aWxkcQB+AJ9zcQB+AJl0AAVCdWlsZHNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgCmdAADc2J0cQB+AKdzcQB+AJl0AAZPYmplY3RzcQB+AJ1zcQB+AKB1cQB+AKMAAAADc3EAfgCvdAAEamF2YXNxAH4Ar3QABGxhbmdxAH4Ap3NxAH4AmXQAA0FueXNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcQB+AK90AAVzY2FsYXEAfgCncHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYWbaUMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABfRzpcTU9PQ1xDb3Vyc2VyYVxTY2FsYVxGdW5jdGlvbmFsIFByb2dyYW1taW5nXHJlY2Z1blxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTsidCfMpMSbu5fQSd3novwUmdAlQ==
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBsKmrIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDnowLd0AAZub3RpZnlzcQB+AAyXehM5dAAMTWFwTWFwU3RyaW5nc3EAfgAMtKWlhnQAEFN0dWRlbnRCdWlsZExpa2VzcQB+AAxjbh90dAAEd2FpdHNxAH4ADDPaF390AAZjb3Vyc2VzcQB+AAzThq4zdAAOY29weSRkZWZhdWx0JDJzcQB+AAy6oR9gdAANJGFzSW5zdGFuY2VPZnNxAH4ADPMwI+p0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADAzzrb50AAxidWlsZExvYWRlcnNzcQB+AAzQaEhWdAAIY291cnNlSWRzcQB+AAx/pS1VdAADbWFwc3EAfgAMuYOrBHQABHJvb3RzcQB+AAw0iFmddAAMcHJvZHVjdEFyaXR5c3EAfgAM7IlGuXQABmVxdWFsc3NxAH4ADMpQMVp0AA5hc3NpZ25tZW50SW5mb3NxAH4ADJyIyi90AAxhc0luc3RhbmNlT2ZzcQB+AAziS16hdAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMKdpSyHQADkFzc2lnbm1lbnRJbmZvc3EAfgAMcNhjTnQADHN5bmNocm9uaXplZHNxAH4ADJh4iY90AA0kaXNJbnN0YW5jZU9mc3EAfgAMvGOpQnQAEnN1Ym1pdExvY2FsU2V0dGluZ3NxAH4ADFnPe/Z0AAxlbmNvZGVCYXNlNjRzcQB+AAz/iZPldAAIY2FuRXF1YWxzcQB+AAyN2xmWdAAGc3VibWl0c3EAfgAMLHUZ83QADmNvcHkkZGVmYXVsdCQ0c3EAfgAMptyiSnQADXByb2R1Y3RQcmVmaXhzcQB+AAz3qXiKdAAJbm90aWZ5QWxsc3EAfgAMwh4AxXQADXN1Ym1pdFNldHRpbmdzcQB+AAzMxzopdAALcm9vdFByb2plY3RzcQB+AAx9Zl4WdAADa2V5c3EAfgAMzmte6nQADGlzSW5zdGFuY2VPZnNxAH4ADN5K+mh0AAY8aW5pdD5zcQB+AAzgeolEdAAKcHJlcGFyZUphcnNxAH4ADPVbNh50AApzdHlsZUNoZWNrc3EAfgAMq6DSU3QAFGNvbW1vblNvdXJjZVBhY2thZ2Vzc3EAfgAMrsfj0nQAAj09c3EAfgAMQ1DGWHQAC3N1Ym1pdExvY2Fsc3EAfgAM6+ZREXQABWNsb25lc3EAfgAMNtoOWXQACnN0eWxlU2hlZXRzcQB+AAx9Vs4mdAATc2NhbGFUZXN0RGVwZW5kZW5jeXNxAH4ADHekC/J0AB1zb3VyY2VNYXBwaW5nc1dpdGhvdXRQYWNrYWdlc3NxAH4ADKXMkCh0AAZpdGVtSWRzcQB+AAzn3JifdAAWcGFja2FnZVN1Ym1pc3Npb25GaWxlc3NxAH4ADAaWmMx0ABFwYWNrYWdlU3VibWlzc2lvbnNxAH4ADFmRt8Z0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADJm6+eZ0AARjb3B5c3EAfgAMUm4W7XQACHRvU3RyaW5nc3EAfgAMVjoDY3QAAiE9c3EAfgAMKAQBCHQACHByb2plY3Rzc3EAfgAMoYhb/nQACGdldENsYXNzc3EAfgAMZIbi0nQADXByZW1pdW1JdGVtSWRzcQB+AAyRGzqhdAAOY29weSRkZWZhdWx0JDFzcQB+AAypKx0IdAAKYXNzaWdubWVudHNxAH4ADBCSG7p0AAJuZXNxAH4ADDcW1i90AAZwYXJ0SWRzcQB+AAxpaBozdAARc3R5bGVDaGVja1NldHRpbmdzcQB+AAycApGgdAACZXFzcQB+AAzvrI0VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMZG7XiXQACHNldHRpbmdzc3EAfgAMWyZpDXQACmZhaWxTdWJtaXRzcQB+AAyiE6O/dAACIyNzcQB+AAxCc8O9dAAIZmluYWxpemVzcQB+AAxAOiqpdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxKWXMcdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ArgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Al0wACWluaGVyaXRlZHEAfgCXTAAHcGFyZW50c3EAfgCXeHEAfgC1c3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AtHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AtHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AznNxAH4AwXEAfgDEc3EAfgDFc3EAfgDIdXEAfgDLAAAAA3NxAH4AzXQABGphdmFzcQB+AM10AAJpb3EAfgDSc3EAfgDBdAAHUHJvZHVjdHEAfgDHc3EAfgDBdAAGRXF1YWxzcQB+AMdzcQB+AMF0AAZPYmplY3RzcQB+AMVzcQB+AMh1cQB+AMsAAAADc3EAfgDNcQB+ANhzcQB+AM10AARsYW5ncQB+ANJzcQB+AMF0AANBbnlxAH4Ax3Bwc3EAfgCUcQB+AKF1cQB+AKIAAAAAc3EAfgCkAHEAfgARdXEAfgCmAAAAAHEAfgCqdXEAfgCsAAAAAHNxAH4ArgFxAH4AtnBzcQB+AK4Bc3EAfgC4c3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AvwAAAAZzcQB+AMFxAH4AxHNxAH4AxXNxAH4AyHVxAH4AywAAAAJzcQB+AM1xAH4A0HEAfgDSc3EAfgDBcQB+AMRzcQB+AMVzcQB+AMh1cQB+AMsAAAADc3EAfgDNcQB+ANhzcQB+AM10AAJpb3EAfgDSc3EAfgDBcQB+ANxxAH4A+HNxAH4AwXQABkVxdWFsc3EAfgD4c3EAfgDBcQB+AOBzcQB+AMVzcQB+AMh1cQB+AMsAAAADc3EAfgDNcQB+ANhzcQB+AM1xAH4A5nEAfgDSc3EAfgDBcQB+AOhxAH4A+HBwc3EAfgCUcQB+AKF1cQB+AKIAAAAAc3EAfgCkAHEAfgATdXEAfgCmAAAAAHEAfgCqdXEAfgCsAAAAAHNxAH4ArgFxAH4AtnBzcQB+AK4Bc3EAfgC4c3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AkgAAAABwc3EAfgCuAXVxAH4AvwAAAARzcQB+AMF0AAtDb21tb25CdWlsZHNxAH4AxXNxAH4AyHVxAH4AywAAAAFxAH4A0nNxAH4AwXQABUJ1aWxkc3EAfgDFc3EAfgDIdXEAfgDLAAAAAnNxAH4AzXQAA3NidHEAfgDSc3EAfgDBcQB+AOBzcQB+AMVzcQB+AMh1cQB+AMsAAAADc3EAfgDNcQB+ANhzcQB+AM1xAH4A5nEAfgDSc3EAfgDBcQB+AOhzcQB+AMVzcQB+AMh1cQB+AMsAAAACc3EAfgDNcQB+ANBxAH4A0nBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFm2lDMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAX0c6XE1PT0NcQ291cnNlcmFcU2NhbGFcRnVuY3Rpb25hbCBQcm9ncmFtbWluZ1xyZWNmdW5ccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU65wmcVwsbXfEnd1xI71XzO/sIzw=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAPYNO4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMYRmT10AAZub3RpZnlzcQB+AAwBAc68dAAEd2FpdHNxAH4ADEXgygJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxDOjbXQABmVxdWFsc3NxAH4ADHwbGyF0AAxhc0luc3RhbmNlT2ZzcQB+AAw15InYdAADcG9zc3EAfgAM+We3HHQADHN5bmNocm9uaXplZHNxAH4ADOpL5nV0AAVzY29yZXNxAH4ADO8MWO90AA0kaXNJbnN0YW5jZU9mc3EAfgAM5nyJTHQABWluZm9zc3EAfgAMy05A8XQACHdhcm5pbmdzc3EAfgAMWmLS23QABmVycm9yc3NxAH4ADDm4A3N0AAtlYWNoTWVzc2FnZXNxAH4ADIY5LvZ0AAVmaWxlc3NxAH4ADNq4ZWl0AAlub3RpZnlBbGxzcQB+AAzZUrWxdAAMaXNJbnN0YW5jZU9mc3EAfgAMqozU6nQACW1heFJlc3VsdHNxAH4ADGdrOWV0AAY8aW5pdD5zcQB+AAxeTfJ7dAAJZmlsZUNvdW50c3EAfgAM4H5eAnQAAj09c3EAfgAMazJ5hHQABmFzc2Vzc3NxAH4ADHo0SXZ0AAVjbG9uZXNxAH4ADFBWeVR0AAZyZXBvcnRzcQB+AAwh0c+xdAAHbWVzc2FnZXNxAH4ADJjayQ50AAh0b1N0cmluZ3NxAH4ADKYogRR0AAIhPXNxAH4ADGLD7tl0AA1tZXNzYWdlSGVscGVyc3EAfgAMMF6naHQADFN0eWxlQ2hlY2tlcnNxAH4ADC6nT+R0AAhnZXRDbGFzc3NxAH4ADP2mG4t0AAZvdXRwdXRzcQB+AAwNQGNbdAACbmVzcQB+AAzkavumdAACZXFzcQB+AAzl7NTKdAACIyNzcQB+AAzRexIcdAAIZmluYWxpemVzcQB+AAzpgwCtdAAIaGFzaENvZGVzcQB+AAzWqZeedAAQQ3VzdG9tVGV4dE91dHB1dHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4ARXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AdgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AX0wACWluaGVyaXRlZHEAfgBfTAAHcGFyZW50c3EAfgBfeHEAfgB9c3EAfgB2AXVxAH4AWgAAAABwc3EAfgB2AXVxAH4AWgAAAABwc3EAfgB2AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AlXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlnNxAH4AiXQAA0FueXNxAH4AjXNxAH4AkHVxAH4AkwAAAAJzcQB+AJV0AAVzY2FsYXEAfgCccHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYWbaUMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABfRzpcTU9PQ1xDb3Vyc2VyYVxTY2FsYVxGdW5jdGlvbmFsIFByb2dyYW1taW5nXHJlY2Z1blxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRx+pfYKakC41utHnYlIsQsu7XINw==
+external apis:
+0 items
+source infos:
+8 items
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\CommonBuild.scala -> 
+AAAAAAAAAAA=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Courses.scala -> 
+AAAAAAAAAAA=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\GradingFeedback.scala -> 
+AAAAAAAAAAA=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\ScalaTestRunner.scala -> 
+AAAAAAAAAAA=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\Settings.scala -> 
+AAAAAAAAAAA=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuild.scala -> 
+AAAAAAAAAAA=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StudentBuildLike.scala -> 
+AAAAAAAAAAA=
+G:\MOOC\Coursera\Scala\Functional Programming\recfun\project\StyleChecker.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYWbYIIJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAX0c6XE1PT0NcQ291cnNlcmFcU2NhbGFcRnVuY3Rpb25hbCBQcm9ncmFtbWluZ1xyZWNmdW5ccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYWbZXvp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAX0c6XE1PT0NcQ291cnNlcmFcU2NhbGFcRnVuY3Rpb25hbCBQcm9ncmFtbWluZ1xyZWNmdW5ccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYWbaUMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAX0c6XE1PT0NcQ291cnNlcmFcU2NhbGFcRnVuY3Rpb25hbCBQcm9ncmFtbWluZ1xyZWNmdW5ccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABLw==
